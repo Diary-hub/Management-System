@@ -28,6 +28,9 @@ This is a simple web application for school management. a management system that
 - Auto Database Migration
 - SQL Database, 'InnoDB' Engine
 - Reusable Code and Templates
+![1](https://github.com/Diary-hub/studentmanagement-app/assets/39463871/c4e7d26e-42e0-4e3d-afbd-1494f58a5bea)
+
+![2](https://github.com/Diary-hub/studentmanagement-app/assets/39463871/4392af48-0fe1-4f8f-87f4-1ba658d7bb35)
 
 # It's my first learning project for Laravel and Vite, it took me 4 hours to master this <3.
 
