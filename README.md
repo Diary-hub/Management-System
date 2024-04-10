@@ -21,6 +21,7 @@ This is a simple web application for school management. a management system that
 
 ## Application Utils Uses
 - Vite Front-End
+- PHP, Blade, HTML5, CSS, JS, Tailwind
 - Resource API
 - Controllers
 - Models
