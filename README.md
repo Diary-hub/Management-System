@@ -20,6 +20,7 @@ This is a simple web application for school management. a management system that
 - CRUD on payment data.
 
 ## Application Utils Uses
+- Relation Class and Models
 - Vite Front-End
 - PHP, Blade, HTML5, CSS, JS, Tailwind
 - Resource API
